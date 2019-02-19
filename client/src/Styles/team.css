@@ -1,0 +1,23 @@
+
+.teamButton{
+    margin-right:0px;
+    margin-left:10px;
+    text-align: center;
+}
+.teamIcon{
+    margin: 10px;
+    height:100px;
+    width: 100px;
+}
+.teamForm{
+    margin: 40px;
+    /* height:100px;
+    width: 100px; */
+}
+.teamTitle{
+    font-size: 30px;
+    margin-top: 30px;
+    display: block;
+    margin-right: 300px;
+    margin-left: 30px;
+}
